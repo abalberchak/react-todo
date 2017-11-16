@@ -3,7 +3,7 @@ var ReactDOM = require('react-dom');
 var expect = require('expect');
 var $ = require('jQuery');
 var TestUtils = require('react-addons-test-utils');
-var uuid = requires('node-uuid');
+var uuid = require('node-uuid');
 
 var TodoApp = require('TodoApp');
 
